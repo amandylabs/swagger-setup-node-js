@@ -1,0 +1,15 @@
+{
+  "name": "swagger-setup-node",
+  "version": "1.0.0",
+  "description": "This is made by Aman Singh",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Aman Singh",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.19",
+    "swagger-ui-express": "^4.5.0"
+  }
+}
